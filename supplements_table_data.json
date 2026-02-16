@@ -68,6 +68,17 @@
         "evening": ""
     },
     {
+        "name": "Black Currant Extract",
+        "brand": "Swanson Full Spectrum Black Currant",
+        "brand_url": "https://www.iherb.com/pr/swanson-full-spectrum-black-currant-400-mg-60-capsules/117640",
+        "dose": "400 mg",
+        "dv": "*",
+        "molecule": "Black Currant Fruit (Ribes nigrum)",
+        "ingredients": "Rice flour, gelatin, magnesium stearate, silica",
+        "morning": "1",
+        "evening": ""
+    },
+    {
         "name": "Boron",
         "brand": "Life Extension Boron",
         "brand_url": "https://www.lifeextension.com/vitamins-supplements/item01661/boron",
@@ -509,15 +520,15 @@
     {
         "name": "Magnesium",
         "brand": "DEVA Magnesium Glycinate with Trace Minerals",
-        "brand_url": "https://www.iherb.com/pr/deva-premium-vegan-flaxseed-oil-90-vegan-caps/14687",
+        "brand_url": "https://www.iherb.com/pr/deva-vegan-magnesium-glycinate-with-trace-minerals-90-tablets/143740",
         "subrows": [
             {
-                "dose": "100 mg",
-                "dv": "24%",
+                "dose": "300 mg",
+                "dv": "72%",
                 "molecule": "Magnesium (from Magnesium Bisglycinate)"
             },
             {
-                "dose": "10 mg",
+                "dose": "30 mg",
                 "dv": "*",
                 "molecule": "Trace Minerals (from Utah Inland Sea)"
             }
