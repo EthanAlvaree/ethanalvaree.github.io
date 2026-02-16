@@ -4,11 +4,11 @@
         "dose": "100 mg",
         "frequency": "Each meal"
     },
-    {
-        "molecule": "Aspirin",
-        "dose": "81 mg",
-        "frequency": "Daily"
-    },
+    // {
+    //     "molecule": "Aspirin",
+    //     "dose": "81 mg",
+    //     "frequency": "Daily"
+    // },
     {
         "molecule": "Atorvastatin",
         "dose": "10 mg",
